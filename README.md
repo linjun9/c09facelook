@@ -1,7 +1,7 @@
 # Team Project Proposal
 
 # Project Title
-FaceLook
+FaceLook: https://powerful-island-27056.herokuapp.com/
 
 # Team Members
 Jun Lin <br />
