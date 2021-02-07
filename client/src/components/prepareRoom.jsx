@@ -6,7 +6,7 @@ import WaitingRoom from "./waitingRoom.jsx";
 import "./gameRoomsPage.css";
 import Cookies from "js-cookie";
 
-const URL = route => `wss://frozen-bastion-52634.herokuapp.com${route}`;
+const URL = route => `wss://powerful-island-27056.herokuapp.com${route}`;
 // const URL = route => `ws://localhost:3000${route}`;
 
 class PrepareRoom extends Component {
